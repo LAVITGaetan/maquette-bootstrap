@@ -1,0 +1,9 @@
+.intro{
+    background-image: url(img/intro-bg.jpg);
+    background-position: center;
+}
+
+.banniere{
+    background-image: url(./img/banner-bg.jpg);
+    background-position: center;
+}
